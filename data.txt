@@ -1,0 +1,1 @@
+{"source": "C:/Users/Sabri.GASMI/Desktop/GEFCO/Data/Vision/REPRISE_CONTRATS.xlsx", "Compare": "C:/Users/Sabri.GASMI/Desktop/GEFCO/Data/Decidium/GIS/GIS_REPRISE_CONTRATS.xlsx", "cible": "C:/Users/Sabri.GASMI/Desktop", "Mapping": "C:/Users/Sabri.GASMI/Desktop/GEFCO/Mapping files/Mapp_compare_file.xlsx"}
